@@ -108,7 +108,7 @@ or
 
 	It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
 
-![Screenshot 2025-04-24 152740](https://github.com/user-attachments/assets/b254cde6-1f7c-405a-8ef6-0eb7531b81cf)
+![Screenshot 2025-04-24 152807](https://github.com/user-attachments/assets/99b258b3-086f-40a0-87e8-dcf71551345b)
 
 ### Fig 4:Setting Multi-step simulation
 
